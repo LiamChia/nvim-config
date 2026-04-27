@@ -1,0 +1,18 @@
+{
+  "main": {
+    "prefix": "main",
+    "body": [
+      "public static void main(String[] args)",
+      "{",
+      "\t$0",
+      "}"
+    ]
+  },
+
+  "print": {
+    "prefix": "print",
+    "body": [
+      "System.out.printf(\"$0\\n\")"
+    ]
+  }
+}
